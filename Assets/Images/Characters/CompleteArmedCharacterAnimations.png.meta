@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: ef973599c8cff64469180c5bfb128e8c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 298
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8849832d35cccdd4f95fd41d882d0753
+      internalID: -366137240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 298
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6962fa1f72cb1d849b15469a47f83ff0
+      internalID: 1255351512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 298
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dff5a8b22518d54c85f225167f77dad
+      internalID: 2047612563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 298
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c7cabab6a7ed84db6edd966a3cab84
+      internalID: 270292922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 298
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc2ded6488a5a641b8e28e88598bd69
+      internalID: -831946924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_5
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 298
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a317f410895184599d7df34d7f4444
+      internalID: 1853000518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 279
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8734beec68905794299de888fb821033
+      internalID: -377679557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 279
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902a9ee97931ac24bba72439cde0ab24
+      internalID: 1201807121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 260
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e89291135002ae428d44248cc1d5e4e
+      internalID: 1777332162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 260
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cbdb4d034ad0440b04778e64f58da0
+      internalID: -448567745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 260
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfdfdc4408ab10428b5dd06f68e2502
+      internalID: 662654575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 260
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c24ad657424b554c9ec83ebb6c638aa
+      internalID: 1466537034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 260
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb84f2be9c9c739468ecf9a853b8b437
+      internalID: 62504916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 260
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6934e3679adc949ac9a6da41e77fec
+      internalID: -1642097352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 241
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9057466b521c374181db123673aa7f9
+      internalID: -2006784313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 241
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b453a540c0a0ad429339b5a8672e500
+      internalID: -1053844488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 222
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b889c304c419eb48ae9de8c3b58e5ad
+      internalID: 1987661366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_17
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 222
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a83a8d165892142943778156d364ea
+      internalID: 710654092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 203
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8396ccdb0f7291947a2e2241474563a7
+      internalID: 686273303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_19
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 203
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa907f0a6808d64c87c38064f7e2347
+      internalID: 1906410579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_20
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 203
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8075ec01eeab2343aa9a3df01d3edea
+      internalID: -1810664124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_21
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 203
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cddc7623ede6794e9f290be32c32e9b
+      internalID: -1543961461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_22
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 203
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66267f1cc72ba3f47af9710236e5cf42
+      internalID: -1581097270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_23
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 183
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b236932dbbd504ca151db683b3c98f
+      internalID: 2049437185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 183
+        width: 20
+        height: 15
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f9bc0881b62304e9e835cc6497b84e
+      internalID: -1740625352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_25
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 183
+        width: 19
+        height: 15
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1f701bf5a352a4981756959762f7db
+      internalID: -2125837232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_26
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 165
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206f2b3c0ca413347b8d5c9342e1496c
+      internalID: -232637755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_27
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 164
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302ad5224fc296b43bcbadbe4bc0fef1
+      internalID: -2115901312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_28
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 164
+        width: 17
+        height: 15
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41532757e0e5321469b2ec6b1b6ac390
+      internalID: -645688395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 164
+        width: 18
+        height: 15
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5aa5d6f24286e47917879aff581b29
+      internalID: -269368154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 146
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8ccbac0189cc943904180bb8ee5b49
+      internalID: -879631752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_31
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 146
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992299980aa7a39459b162448d666e23
+      internalID: 592942332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 126
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2c066a1eb81e04f9f324b08879804e
+      internalID: -2040877139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_33
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 127
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16864ea1093eda429de36dc90606c89
+      internalID: 1805901585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 108
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d0ed03eed5a2f4287c91e665880754
+      internalID: -1833195158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_35
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 108
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a4cce6ff5a33a47b1a73af2e76adc6
+      internalID: -942428685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_36
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 108
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472bc33348eeffc478f25cd3357d50c3
+      internalID: 1199400168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_37
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 108
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c25691dca7f314489ba99e631c4d9f4
+      internalID: -741474189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_38
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 108
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7675e5b2922051440b6154f034ddc1a5
+      internalID: 1108386641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_39
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 108
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5af99bf972cbc7468ef702e57b50f7d
+      internalID: 379156347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 86
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf9b2c0f2108ff4ab414317753509ad
+      internalID: 1875947712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_41
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 84
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ea594029b75f947af694ec28652c58
+      internalID: -555088557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_42
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 82
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49455ccfdb6a8764e8828c889c44908b
+      internalID: -2084321370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_43
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 82
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072674d936d38194ea4c86e82bb0b4dc
+      internalID: -2102809097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_44
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 62
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b6ce6cf8a31fb4d91bca68032d2b1f
+      internalID: 1904179914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_45
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 61
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a2fd76ee0017d44b7958a9c2f69b7b
+      internalID: 2092891245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_46
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 61
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b6aa81fa0522140a5edb5ed0a4c66a
+      internalID: -816189692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteArmedCharacterAnimations_47
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 61
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bcd677351d39343a7187065776c5a1
+      internalID: 1431168530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CompleteArmedCharacterAnimations_0: -366137240
+      CompleteArmedCharacterAnimations_1: 1255351512
+      CompleteArmedCharacterAnimations_10: 662654575
+      CompleteArmedCharacterAnimations_11: 1466537034
+      CompleteArmedCharacterAnimations_12: 62504916
+      CompleteArmedCharacterAnimations_13: -1642097352
+      CompleteArmedCharacterAnimations_14: -2006784313
+      CompleteArmedCharacterAnimations_15: -1053844488
+      CompleteArmedCharacterAnimations_16: 1987661366
+      CompleteArmedCharacterAnimations_17: 710654092
+      CompleteArmedCharacterAnimations_18: 686273303
+      CompleteArmedCharacterAnimations_19: 1906410579
+      CompleteArmedCharacterAnimations_2: 2047612563
+      CompleteArmedCharacterAnimations_20: -1810664124
+      CompleteArmedCharacterAnimations_21: -1543961461
+      CompleteArmedCharacterAnimations_22: -1581097270
+      CompleteArmedCharacterAnimations_23: 2049437185
+      CompleteArmedCharacterAnimations_24: -1740625352
+      CompleteArmedCharacterAnimations_25: -2125837232
+      CompleteArmedCharacterAnimations_26: -232637755
+      CompleteArmedCharacterAnimations_27: -2115901312
+      CompleteArmedCharacterAnimations_28: -645688395
+      CompleteArmedCharacterAnimations_29: -269368154
+      CompleteArmedCharacterAnimations_3: 270292922
+      CompleteArmedCharacterAnimations_30: -879631752
+      CompleteArmedCharacterAnimations_31: 592942332
+      CompleteArmedCharacterAnimations_32: -2040877139
+      CompleteArmedCharacterAnimations_33: 1805901585
+      CompleteArmedCharacterAnimations_34: -1833195158
+      CompleteArmedCharacterAnimations_35: -942428685
+      CompleteArmedCharacterAnimations_36: 1199400168
+      CompleteArmedCharacterAnimations_37: -741474189
+      CompleteArmedCharacterAnimations_38: 1108386641
+      CompleteArmedCharacterAnimations_39: 379156347
+      CompleteArmedCharacterAnimations_4: -831946924
+      CompleteArmedCharacterAnimations_40: 1875947712
+      CompleteArmedCharacterAnimations_41: -555088557
+      CompleteArmedCharacterAnimations_42: -2084321370
+      CompleteArmedCharacterAnimations_43: -2102809097
+      CompleteArmedCharacterAnimations_44: 1904179914
+      CompleteArmedCharacterAnimations_45: 2092891245
+      CompleteArmedCharacterAnimations_46: -816189692
+      CompleteArmedCharacterAnimations_47: 1431168530
+      CompleteArmedCharacterAnimations_5: 1853000518
+      CompleteArmedCharacterAnimations_6: -377679557
+      CompleteArmedCharacterAnimations_7: 1201807121
+      CompleteArmedCharacterAnimations_8: 1777332162
+      CompleteArmedCharacterAnimations_9: -448567745
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

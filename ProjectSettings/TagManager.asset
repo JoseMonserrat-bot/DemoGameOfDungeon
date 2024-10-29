@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Tilemap
+  - BringerOfDeathBossBar
+  - LifeBar
+  - ManaBar
+  - Canvas
+  - Doors
+  - CthuluBar
+  - FireWormBar
+  - ManaPotion
+  - LifePotion
+  - LifePotions
+  - ManaPotions
+  - BackPotions
+  - SaveGameController
+  - SaveGameMenuController
+  - Spawn_BringerOfDeathBoss
+  - Spawn_Cthulu
+  - Spawn_FireWorm
+  - Jar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Graund
+  - Water
+  - UI
+  - Ceiling
+  - Player
+  - Enemy
+  - Ladder
+  - Doors
+  - Jar
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 4067744953
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
